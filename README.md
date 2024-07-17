@@ -9,6 +9,7 @@ This repository contains the source code for a front-end of the web application 
 * Components: Contains reusable UI components.
   
   * Navigation Bar: The navigation bar component.
+  * test1
   * Global Background Color Function: A function to retrieve background colors for text components in Activity Four and Five, ensuring colors are not repeated between these activities.
 
 * Pages: Contains code for different pages of the application.
